@@ -1,6 +1,6 @@
 ### "Olá pessoas!" \o/ 👋
 
-#Emilly Horta :woman_technologist:
+:woman_technologist:
 
 Me chamo Emilly Horta, tenho 19 anos, sou estudante de Sistemas de Informação, técnica em Informática pelo IFPI, estagiária e trabalho as vezes como freelancer.
 Atuo em diversas comunidades, sou apaixonada por tecnologia e sou entusiasta python hahaha <3
