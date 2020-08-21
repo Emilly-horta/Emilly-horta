@@ -9,7 +9,7 @@ My name is Emilly Horta, I am 19 years old, I am an Information Systems student,
 
 Gostaria de me encontrar? (Would you like to find me?)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/emillyhortapy)](https://twitter.com/emillyhortapy])
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/emillyhortapy)](https://twitter.com/emillyhortapy)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-horta)](https://www.linkedin.com/in/emilly-horta/)
 
 
