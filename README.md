@@ -2,10 +2,10 @@
 
 :woman_technologist:
 
-Me chamo Emilly Horta, tenho 19 anos, sou estudante de Sistemas de Informação, técnica em Informática pelo IFPI, estagiária e trabalho as vezes como freelancer.
+Me chamo Emilly Horta, tenho 19 anos, sou estudante de Sistemas de Informação, técnica em Informática pelo IFPI,e trabalho as vezes como freelancer.
 Atuo em diversas comunidades, sou apaixonada por tecnologia e sou entusiasta python hahaha <3
 
-My name is Emilly Horta, I am 19 years old, I am an Information Systems student, an IT technician at IFPI, an intern and a freelancer. I work in several communities, I'm passionate about technology and I'm a python enthusiast hahaha <3
+My name is Emilly Horta, I am 19 years old, I am an Information Systems student, an IT technician at IFPI, and a freelancer. I work in several communities, I'm passionate about technology and I'm a python enthusiast hahaha <3
 
 Gostaria de me encontrar? (Would you like to find me?)
 
