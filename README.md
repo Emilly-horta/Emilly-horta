@@ -28,6 +28,9 @@ Atuo em diversas comunidades, sou apaixonada por tecnologia e amo atuar no front
   <a href = "mailto:millyphb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emillyhortadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+ 
 ![Snake animation](https://github.com/Emilly-horta/Emilly-horta/blob/output/github-contribution-grid-snake.svg)
 
+ 
+ 
  </div>
