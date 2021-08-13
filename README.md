@@ -32,6 +32,6 @@ Gostaria de me encontrar? (Would you like to find me?)
   <a href="https://www.linkedin.com/in/emillyhortadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-
+  ![Snake animation](https://github.com/Emilly-horta/Emilly-horta/blob/output/github-contribution-grid-snake.svg)
 
 
