@@ -7,11 +7,6 @@
 Me chamo Emilly Horta, tenho 20 anos, sou estudante de Sistemas de Informação, técnica em Informática pelo IFPI.
 Atuo em diversas comunidades, sou apaixonada por tecnologia e amo atuar no front-end <3
 
-Gostaria de me encontrar? (Would you like to find me?)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/emillyhortapy)](https://twitter.com/emillyhortapy)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilly-horta)](https://www.linkedin.com/in/emilly-horta/)
-
  <div>
   <a href="https://github.com/Emilly-horta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emilly-horta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,6 +20,8 @@ Gostaria de me encontrar? (Would you like to find me?)
 </div>
   
   ##
+ 
+ Gostaria de me encontrar? (Would you like to find me?)
  
 <div> 
   <a href="https://instagram.com/euemillyhorta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
