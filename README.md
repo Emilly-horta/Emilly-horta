@@ -33,4 +33,4 @@ Gostaria de me encontrar? (Would you like to find me?)
 
 ![Snake animation](https://github.com/Emilly-horta/Emilly-horta/blob/output/github-contribution-grid-snake.svg)
 
-
+ </div>
