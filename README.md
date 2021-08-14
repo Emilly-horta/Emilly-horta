@@ -1,6 +1,5 @@
 ### "Olá pessoas!" \o/ 👋
 
-:woman_technologist:
 
 👩‍🦰 pronouns : ela/dela
 
