@@ -3,7 +3,7 @@
 
 👩‍🦰 pronouns : ela/dela
 
-Me chamo Emilly Horta, tenho 20 anos, sou estudante de Sistemas de Informação, técnica em Informática pelo IFPI.
+Me chamo Emilly Horta, sou estudante de Sistemas de Informação, técnica em Informática pelo IFPI.
 Atuo em diversas comunidades, sou apaixonada por tecnologia e amo atuar no front-end <3
 
  <div>
